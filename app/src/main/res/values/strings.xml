@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layouting</string>
+    <string name="load_title">Travel App</string>
+    <string name="motto">Best way to organize travels</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+</resources>
+
